@@ -60,13 +60,17 @@ Un dossier de conception détaillé est disponible dans le repo
 L'hebergement par OVH n'étant plus actif voici les instructions pour lancer le projet en local:
 
 ###Backend
+```bash
 git clone https://github.com/StephaneLay/Dicemeet_API
 composer install
 php bin/console d:d:c
 php bin/console d:m:m
 symfony serve --no-tls
+```
 
 ###Frontend
+```bash
 git clone https://github.com/StephaneLay/Dicemeet
 npm install
 ng serve
+```
