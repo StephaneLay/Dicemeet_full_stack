@@ -48,9 +48,6 @@ L’application a été entièrement déployée sur un VPS Ubuntu hébergé chez
 - amélioration des performances malgré tests lighthouse satisfaisants
 - dockerisation du projet
 
-## Contexte
-Projet réalisé en autonomie, de la conception à la mise en production SANS INTELLIGENCE ARTIFICIELLE !
-
 ## Documentation complémentaire
 Un dossier de conception détaillé est disponible dans le repo
 
